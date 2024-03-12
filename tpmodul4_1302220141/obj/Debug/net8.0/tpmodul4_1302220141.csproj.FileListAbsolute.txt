@@ -1,0 +1,14 @@
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\bin\Debug\net8.0\tpmodul4_1302220141.exe
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\bin\Debug\net8.0\tpmodul4_1302220141.deps.json
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\bin\Debug\net8.0\tpmodul4_1302220141.runtimeconfig.json
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\bin\Debug\net8.0\tpmodul4_1302220141.dll
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\bin\Debug\net8.0\tpmodul4_1302220141.pdb
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\obj\Debug\net8.0\tpmodul4_1302220141.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\obj\Debug\net8.0\tpmodul4_1302220141.AssemblyInfoInputs.cache
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\obj\Debug\net8.0\tpmodul4_1302220141.AssemblyInfo.cs
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\obj\Debug\net8.0\tpmodul4_1302220141.csproj.CoreCompileInputs.cache
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\obj\Debug\net8.0\tpmodul4_1302220141.dll
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\obj\Debug\net8.0\refint\tpmodul4_1302220141.dll
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\obj\Debug\net8.0\tpmodul4_1302220141.pdb
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\obj\Debug\net8.0\tpmodul4_1302220141.genruntimeconfig.cache
+D:\KPL\TP\tpmodul4_1302220141\tpmodul4_1302220141\obj\Debug\net8.0\ref\tpmodul4_1302220141.dll
