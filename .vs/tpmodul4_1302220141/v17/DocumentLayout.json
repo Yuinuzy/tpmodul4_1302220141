@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{FE63A056-8C11-4586-BDA0-4D0143710A37}|tpmodul4_1302220141\\tpmodul4_1302220141.csproj|solutionrelative:tpmodul4_1302220141\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE63A056-8C11-4586-BDA0-4D0143710A37}|tpmodul4_1302220141\\tpmodul4_1302220141.csproj|d:\\kpl\\tp\\tpmodul4_1302220141\\tpmodul4_1302220141\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE63A056-8C11-4586-BDA0-4D0143710A37}|tpmodul4_1302220141\\tpmodul4_1302220141.csproj|d:\\kpl\\tp\\tpmodul4_1302220141\\tpmodul4_1302220141\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE63A056-8C11-4586-BDA0-4D0143710A37}|tpmodul4_1302220141\\tpmodul4_1302220141.csproj|solutionrelative:tpmodul4_1302220141\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE63A056-8C11-4586-BDA0-4D0143710A37}|tpmodul4_1302220141\\tpmodul4_1302220141.csproj|D:\\KPL\\TP\\tpmodul4_1302220141\\tpmodul4_1302220141\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE63A056-8C11-4586-BDA0-4D0143710A37}|tpmodul4_1302220141\\tpmodul4_1302220141.csproj|solutionrelative:tpmodul4_1302220141\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Doormachine.cs",
+              "DocumentMoniker": "D:\\KPL\\TP\\tpmodul4_1302220141\\tpmodul4_1302220141\\Doormachine.cs",
+              "RelativeDocumentMoniker": "tpmodul4_1302220141\\Doormachine.cs",
+              "ToolTip": "D:\\KPL\\TP\\tpmodul4_1302220141\\tpmodul4_1302220141\\Doormachine.cs",
+              "RelativeToolTip": "tpmodul4_1302220141\\Doormachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:07:04.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Kodepos.cs",
               "DocumentMoniker": "D:\\KPL\\TP\\tpmodul4_1302220141\\tpmodul4_1302220141\\Kodepos.cs",
               "RelativeDocumentMoniker": "tpmodul4_1302220141\\Kodepos.cs",
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "tpmodul4_1302220141\\Program.cs",
               "ToolTip": "D:\\KPL\\TP\\tpmodul4_1302220141\\tpmodul4_1302220141\\Program.cs",
               "RelativeToolTip": "tpmodul4_1302220141\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T14:48:25.731Z",
               "EditorCaption": ""

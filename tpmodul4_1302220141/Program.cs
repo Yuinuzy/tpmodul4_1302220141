@@ -1,5 +1,6 @@
 ﻿using tpmodul4_1302220141.kodepos;
 using System;
+using tpmodul4_1302220141.cepatan;
 
 
 namespace TPMOD4
@@ -13,7 +14,8 @@ namespace TPMOD4
             kodepos.setKodePost();
             kodepos.getKodePos();
 
-         
+            Doormachine door = new Doormachine();
+            door.run();
         }
     }
 }
